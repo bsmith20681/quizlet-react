@@ -1,7 +1,5 @@
 import React, { Component } from 'react'
 
-
-
 class Flashcard extends Component {
 
   constructor(props){
